@@ -10,6 +10,6 @@ A continuación, se detallan los comandos para compilar y ejecutar el programa.
 
 g++ -g -o eject main.cpp -Wall -pedantic
 
-### 2. Instalación
+### 2. Ejecutar 
 
 ./eject
