@@ -1,4 +1,4 @@
-#   Practica 03
+#   Practica 02
 
 Alumno: Paul Parizaca Mozo
 
